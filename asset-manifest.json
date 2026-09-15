@@ -1,17 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.8542a7a2.css",
-    "main.js": "/static/js/main.0a1d6e99.js",
-    "static/js/38.23512650.chunk.js": "/static/js/38.23512650.chunk.js",
-    "static/js/904.0a484313.chunk.js": "/static/js/904.0a484313.chunk.js",
-    "static/js/116.d5aa4d88.chunk.js": "/static/js/116.d5aa4d88.chunk.js",
-    "static/js/991.eae03c52.chunk.js": "/static/js/991.eae03c52.chunk.js",
-    "static/js/636.e6ce9103.chunk.js": "/static/js/636.e6ce9103.chunk.js",
-    "static/js/734.94937ba9.chunk.js": "/static/js/734.94937ba9.chunk.js",
-    "static/js/605.f4ca4614.chunk.js": "/static/js/605.f4ca4614.chunk.js",
-    "static/js/585.44aac9e5.chunk.js": "/static/js/585.44aac9e5.chunk.js",
-    "static/js/26.152b17e2.chunk.js": "/static/js/26.152b17e2.chunk.js",
-    "static/js/282.a81e2153.chunk.js": "/static/js/282.a81e2153.chunk.js",
+    "main.js": "/static/js/main.fb8b46d8.js",
+    "static/js/38.9e70956a.chunk.js": "/static/js/38.9e70956a.chunk.js",
+    "static/js/904.9e5eb2b2.chunk.js": "/static/js/904.9e5eb2b2.chunk.js",
+    "static/js/116.f48b7351.chunk.js": "/static/js/116.f48b7351.chunk.js",
+    "static/js/991.6fef435a.chunk.js": "/static/js/991.6fef435a.chunk.js",
+    "static/js/636.566f5f16.chunk.js": "/static/js/636.566f5f16.chunk.js",
+    "static/js/734.a62c7a73.chunk.js": "/static/js/734.a62c7a73.chunk.js",
+    "static/js/605.7b95cc68.chunk.js": "/static/js/605.7b95cc68.chunk.js",
+    "static/js/585.d636f3e6.chunk.js": "/static/js/585.d636f3e6.chunk.js",
+    "static/js/939.3991b09e.chunk.js": "/static/js/939.3991b09e.chunk.js",
     "static/media/WolfhagenBlackletter-Regular.ttf": "/static/media/WolfhagenBlackletter-Regular.ff088f8c6906975c2b5f.ttf",
     "static/media/SpecialElite-Regular.ttf": "/static/media/SpecialElite-Regular.cefed1373df28714f8e5.ttf",
     "static/media/OpenDyslexic-Regular.woff": "/static/media/OpenDyslexic-Regular.faf7bb41c4bbb5a043ed.woff",
@@ -20,6 +19,6 @@
   },
   "entrypoints": [
     "static/css/main.8542a7a2.css",
-    "static/js/main.0a1d6e99.js"
+    "static/js/main.fb8b46d8.js"
   ]
 }

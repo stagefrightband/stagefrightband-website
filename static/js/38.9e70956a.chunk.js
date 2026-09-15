@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[38],{38:(p,s,a)=>{a.r(s),a.d(s,{default:()=>u});a(804);var e=a(544);const u=()=>(0,e.jsx)("div",{})}}]);
